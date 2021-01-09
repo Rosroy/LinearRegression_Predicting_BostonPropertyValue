@@ -1,6 +1,6 @@
 ---
 title: 'Regression'
-author: "Purba Roy"
+author: "Roshni Roy"
 ---
 
 
